@@ -1,0 +1,11 @@
+ipykernel
+langchain
+langchain-openai
+python-dotenv
+langchain_community
+pypdf
+bs4
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+unstructured[md]
